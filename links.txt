@@ -1,0 +1,2 @@
+https://sourceforge.net/p/msys2/discussion/general/thread/f81f0b97/
+https://linux.die.net/man/3/ncurses
